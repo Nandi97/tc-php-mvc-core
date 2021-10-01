@@ -1,5 +1,5 @@
 {
-    "name": "tc/php-mvc-core",
+    "name": "AlvinKigen/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Tc\\PhpMvcCore\\": "src/"
